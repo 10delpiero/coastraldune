@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { useHistory, Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHome } from '@fortawesome/free-solid-svg-icons'
 import { authService } from "../fbase";
 import icon8 from "../components/icons/icon8.jpg";
 
@@ -29,6 +31,24 @@ export default ({ refreshUser, userObj }) => {
 
     return(
     <div className="container">
+                      <div>
+        <nav>
+          <ul>
+            <li>
+              <Link to="/" 
+              style={{ 
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "left",
+            marginLeft: "30px",
+            marginBottom: "10px",
+            fontSize: 12,}}>
+          <FontAwesomeIcon icon={faHome} color={"#ffffff"} size="3x" />
+        </Link>
+        </li>
+        </ul>
+        </nav>
+        </div>
       <div className="pageTitleBack">
         <div className="pageTitle">
             <div className="in">

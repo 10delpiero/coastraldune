@@ -1,4 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHome } from '@fortawesome/free-solid-svg-icons'
 import Slide from "./Slide";
 import styled from "styled-components";
 import icon7 from "../components/icons/icon7.jpg";
@@ -63,6 +66,24 @@ const nextSlide = () => {
   }, [currentSlide]);
 return (
 <div>
+<div>
+        <nav>
+          <ul>
+            <li>
+              <Link to="/" 
+              style={{ 
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "left",
+            marginLeft: "30px",
+            marginBottom: "10px",
+            fontSize: 12,}}>
+          <FontAwesomeIcon icon={faHome} color={"#ffffff"} size="3x" />
+        </Link>
+        </li>
+        </ul>
+        </nav>
+        </div>
     <div className="pageTitleBack">
         <div className="pageTitle">
             <div className="in">
