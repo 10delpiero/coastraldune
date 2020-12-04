@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/coastraldune/static/css/main.1a0e03ae.chunk.css",
+    "main.js": "/coastraldune/static/js/main.403991f6.chunk.js",
+    "main.js.map": "/coastraldune/static/js/main.403991f6.chunk.js.map",
+    "runtime-main.js": "/coastraldune/static/js/runtime-main.77c6ac5e.js",
+    "runtime-main.js.map": "/coastraldune/static/js/runtime-main.77c6ac5e.js.map",
+    "static/js/2.186bd181.chunk.js": "/coastraldune/static/js/2.186bd181.chunk.js",
+    "static/js/2.186bd181.chunk.js.map": "/coastraldune/static/js/2.186bd181.chunk.js.map",
+    "index.html": "/coastraldune/index.html",
+    "static/css/main.1a0e03ae.chunk.css.map": "/coastraldune/static/css/main.1a0e03ae.chunk.css.map",
+    "static/js/2.186bd181.chunk.js.LICENSE.txt": "/coastraldune/static/js/2.186bd181.chunk.js.LICENSE.txt",
+    "static/media/1.1b19e91f.jpg": "/coastraldune/static/media/1.1b19e91f.jpg",
+    "static/media/10.e6148a24.jpg": "/coastraldune/static/media/10.e6148a24.jpg",
+    "static/media/2.2937185a.jpg": "/coastraldune/static/media/2.2937185a.jpg",
+    "static/media/3.1c4a252a.jpg": "/coastraldune/static/media/3.1c4a252a.jpg",
+    "static/media/4.b4c3b52d.jpg": "/coastraldune/static/media/4.b4c3b52d.jpg",
+    "static/media/5.b8d37b7f.jpg": "/coastraldune/static/media/5.b8d37b7f.jpg",
+    "static/media/6.0d96fccb.jpg": "/coastraldune/static/media/6.0d96fccb.jpg",
+    "static/media/7.467f1654.jpg": "/coastraldune/static/media/7.467f1654.jpg",
+    "static/media/8.8afaeb9b.jpg": "/coastraldune/static/media/8.8afaeb9b.jpg",
+    "static/media/9.43851c87.jpg": "/coastraldune/static/media/9.43851c87.jpg",
+    "static/media/styles.css": "/coastraldune/static/media/KCCMurukmuruk.c86023a4.ttf",
+    "static/media/icon1.a50225a0.jpg": "/coastraldune/static/media/icon1.a50225a0.jpg",
+    "static/media/icon2.7443fcbd.jpg": "/coastraldune/static/media/icon2.7443fcbd.jpg",
+    "static/media/icon3.dd2b4ed4.jpg": "/coastraldune/static/media/icon3.dd2b4ed4.jpg",
+    "static/media/icon4.8b4f538c.jpg": "/coastraldune/static/media/icon4.8b4f538c.jpg",
+    "static/media/icon5.652a0426.jpg": "/coastraldune/static/media/icon5.652a0426.jpg",
+    "static/media/icon6.3f8ecd06.jpg": "/coastraldune/static/media/icon6.3f8ecd06.jpg",
+    "static/media/icon7.6f2f3608.jpg": "/coastraldune/static/media/icon7.6f2f3608.jpg",
+    "static/media/icon8.5d3d6e1e.jpg": "/coastraldune/static/media/icon8.5d3d6e1e.jpg",
+    "static/media/leaves.47b6c1ec.jpg": "/coastraldune/static/media/leaves.47b6c1ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77c6ac5e.js",
+    "static/js/2.186bd181.chunk.js",
+    "static/css/main.1a0e03ae.chunk.css",
+    "static/js/main.403991f6.chunk.js"
+  ]
+}
