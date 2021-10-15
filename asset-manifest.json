@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coastraldune/static/css/main.58831495.chunk.css",
-    "main.js": "/coastraldune/static/js/main.a789cc17.chunk.js",
-    "main.js.map": "/coastraldune/static/js/main.a789cc17.chunk.js.map",
+    "main.css": "/coastraldune/static/css/main.25b36486.chunk.css",
+    "main.js": "/coastraldune/static/js/main.6c885af2.chunk.js",
+    "main.js.map": "/coastraldune/static/js/main.6c885af2.chunk.js.map",
     "runtime-main.js": "/coastraldune/static/js/runtime-main.fd70c181.js",
     "runtime-main.js.map": "/coastraldune/static/js/runtime-main.fd70c181.js.map",
     "static/js/2.0c412fd4.chunk.js": "/coastraldune/static/js/2.0c412fd4.chunk.js",
     "static/js/2.0c412fd4.chunk.js.map": "/coastraldune/static/js/2.0c412fd4.chunk.js.map",
     "index.html": "/coastraldune/index.html",
-    "static/css/main.58831495.chunk.css.map": "/coastraldune/static/css/main.58831495.chunk.css.map",
+    "static/css/main.25b36486.chunk.css.map": "/coastraldune/static/css/main.25b36486.chunk.css.map",
     "static/js/2.0c412fd4.chunk.js.LICENSE.txt": "/coastraldune/static/js/2.0c412fd4.chunk.js.LICENSE.txt",
     "static/media/1.2551da08.jpg": "/coastraldune/static/media/1.2551da08.jpg",
     "static/media/10.2551da08.jpg": "/coastraldune/static/media/10.2551da08.jpg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd70c181.js",
     "static/js/2.0c412fd4.chunk.js",
-    "static/css/main.58831495.chunk.css",
-    "static/js/main.a789cc17.chunk.js"
+    "static/css/main.25b36486.chunk.css",
+    "static/js/main.6c885af2.chunk.js"
   ]
 }
